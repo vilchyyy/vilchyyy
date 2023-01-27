@@ -10,5 +10,5 @@ My name is Dawid, I am a 18 years old web developer based in Poland 🇵🇱.
 </div>
 
 ### Contact
-- linkedin: https://www.linkedin.com/in/dawid-drobny-1a145322b/
+- 👨🏻‍💻 linkedin: https://www.linkedin.com/in/dawid-drobny-1a145322b/
 - 📫 email: dawdrobny@gmail.com
