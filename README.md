@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Dawid, I am a 18 years old web developer based in Poland 🇵🇱.
+My name is Dawid, I am a 19 years old web developer based in Poland 🇵🇱.
 
 ### My tools
 <div>
